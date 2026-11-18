@@ -1,0 +1,76 @@
+{
+  "verificado_em": "2026-11-16",
+  "observacao": "Parâmetros usados na calculadora de energia (SERS). Tipo 'oficial' = vem de norma ou órgão público. Tipo 'estimativa' = valor ilustrativo que a pessoa pode ajustar. Edite os valores aqui se precisar atualizar.",
+  "parametros": {
+    "limite_gratuidade_tarifa_social_kwh": {
+      "valor": 80, "unidade": "kWh por mês", "tipo": "oficial",
+      "fonte": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2025/aneel-regulamenta-gratuidade-de-80-kwh-mensais-para-17-milhoes-de-familias-que-recebem-tarifa-social",
+      "observacao": "Gratuidade da energia dos primeiros 80 kWh. Impostos e iluminação pública continuam na conta."
+    },
+    "limite_desconto_social_kwh": {
+      "valor": 120, "unidade": "kWh por mês", "tipo": "oficial",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15235.htm",
+      "observacao": "Desconto Social: renda por pessoa acima de 1/2 e até 1 salário mínimo. O valor do desconto não é calculado aqui."
+    },
+    "custo_disponibilidade_kwh": {
+      "valor": 30, "unidade": "kWh por mês", "tipo": "oficial",
+      "fonte": "https://www.gov.br/aneel/pt-br",
+      "observacao": "Consumo mínimo cobrado mesmo com geração própria: 30 kWh (ligação monofásica), 50 (bifásica) e 100 (trifásica). Usamos 30."
+    },
+    "lampada_incandescente_w": {
+      "valor": 60, "unidade": "W", "tipo": "oficial",
+      "fonte": "https://www.gov.br/inmetro/pt-br/centrais-de-conteudo/publicacoes/cartilhas/lampadaled.pdf",
+      "observacao": "Cartilha do Inmetro: incandescente de 60 W equivale a LED de 9 W."
+    },
+    "lampada_led_w": {
+      "valor": 9, "unidade": "W", "tipo": "oficial",
+      "fonte": "https://www.gov.br/inmetro/pt-br/centrais-de-conteudo/publicacoes/cartilhas/lampadaled.pdf",
+      "observacao": "LED equivalente a uma incandescente de 60 W."
+    },
+    "preco_lampada_led_reais": {
+      "valor": 10.0, "unidade": "R$ por lâmpada", "tipo": "estimativa",
+      "fonte": "Valor ilustrativo da equipe (confira o preço na sua loja)",
+      "observacao": "Preço de uma lâmpada LED de 9 W. Ajuste conforme o mercado."
+    },
+    "reducao_chuveiro_posicao_verao": {
+      "valor": 0.30, "unidade": "fração", "tipo": "estimativa",
+      "fonte": "https://agenciaminas.mg.gov.br/news/pdf/122664.pdf",
+      "observacao": "Segundo a Cemig, a chave na posição verão pode reduzir até 30% do consumo do chuveiro. É o máximo citado, não uma garantia."
+    },
+    "minutos_a_menos_no_banho": {
+      "valor": 2, "unidade": "minutos", "tipo": "estimativa",
+      "fonte": "Sugestão da equipe",
+      "observacao": "Redução de banho simulada por pessoa."
+    },
+    "irradiacao_media_kwh_m2_dia": {
+      "valor": 4.5, "unidade": "kWh/m² por dia", "tipo": "oficial",
+      "fonte": "https://revistapesquisa.fapesp.br/para-aproveitar-o-sol/",
+      "observacao": "Atlas Brasileiro de Energia Solar (INPE): média diária por volta de 4,5 no Sul e 5,2 no Sudeste. Usamos o valor mais baixo, mais conservador."
+    },
+    "eficiencia_sistema_solar": {
+      "valor": 0.80, "unidade": "fração", "tipo": "estimativa",
+      "fonte": "Estimativa da equipe (perdas típicas de um sistema fotovoltaico)",
+      "observacao": "Considera perdas por temperatura, sujeira, fiação e inversor."
+    },
+    "preco_sistema_solar_reais_por_wp": {
+      "valor": 2.84, "unidade": "R$ por watt-pico instalado", "tipo": "estimativa",
+      "fonte": "https://canalsolar.com.br/gd-desempenho-primeiro-semestre-atencao-integradores/",
+      "observacao": "Estudo da Greener (1º semestre de 2026): sistema de 4 kWp com preço médio de R$ 11.360. Sistemas menores costumam custar mais por watt."
+    },
+    "fator_emissao_kg_co2_por_kwh": {
+      "valor": 0.0385, "unidade": "kg de CO2 por kWh", "tipo": "oficial",
+      "fonte": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/02/fator-de-emissao-de-co2-na-geracao-de-energia-eletrica-no-brasil-em-2023-e-o-menor-em-12-anos",
+      "observacao": "Média do Sistema Interligado Nacional em 2023 (38,5 kg por MWh). Valores mensais recentes do MCTI são parecidos ou menores."
+    },
+    "tarifa_exemplo_reais_kwh": {
+      "valor": 0.90, "unidade": "R$ por kWh", "tipo": "estimativa",
+      "fonte": "Valor ilustrativo. Use o valor do kWh que aparece na sua conta de luz",
+      "observacao": "Usado só quando a pessoa não informa a tarifa."
+    },
+    "retorno_maximo_viavel_meses": {
+      "valor": 96, "unidade": "meses", "tipo": "estimativa",
+      "fonte": "Critério da equipe",
+      "observacao": "Acima de 8 anos o retorno do investimento é considerado fraco para uma família de baixa renda."
+    }
+  }
+}

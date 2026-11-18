@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Fazer ou atualizar o Cadastro Único (CadÚnico)",
+    "palavras_chave": [
+      "cadastro unico",
+      "cadunico",
+      "cad unico",
+      "atualizar cadunico",
+      "inscrever no cadunico",
+      "meu cadunico",
+      "cras"
+    ],
+    "resposta": "O Cadastro Único é a porta de entrada para programas como Bolsa Família, Tarifa Social de Energia e Gás do Povo. Uma pessoa da família, o responsável familiar, vai ao CRAS ou ao posto de cadastramento da cidade e informa os dados de todos que moram na casa. Depois, é preciso atualizar os dados pelo menos a cada 2 anos ou quando algo mudar (endereço, renda, quem mora na casa).",
+    "documentos": [
+      "Documento oficial com foto de todas as pessoas da família (original)",
+      "Comprovante de endereço atualizado",
+      "CPF do responsável familiar"
+    ],
+    "onde": "CRAS ou posto do Cadastro Único da sua cidade. O comprovante pode ser consultado no aplicativo Meu CadÚnico.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/novo-cadastro-unico",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Tirar ou regularizar o CPF",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "fazer cpf",
+      "segunda via do cpf",
+      "regularizar cpf",
+      "inscricao no cpf"
+    ],
+    "resposta": "A inscrição no CPF é gratuita pela internet (site da Receita Federal ou gov.br). Em unidades conveniadas, como bancos e Correios, pode haver cobrança de taxa. O CPF também é o número da nova identidade (CIN) e a chave de identificação no Cadastro Único.",
+    "documentos": [
+      "Documento oficial de identificação ou certidão de nascimento",
+      "Título de eleitor (se já tiver)"
+    ],
+    "onde": "Site da Receita Federal ou gov.br (grátis), ou atendimento presencial da Receita e de unidades conveniadas.",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Tirar a Carteira de Identidade Nacional (novo RG)",
+    "palavras_chave": [
+      "carteira de identidade",
+      "identidade nacional",
+      "novo rg",
+      "rg",
+      "cin",
+      "segunda via do rg",
+      "tirar rg"
+    ],
+    "resposta": "A Carteira de Identidade Nacional (CIN) é o novo RG: usa o número do CPF como número único em todo o país. A primeira via é gratuita. O pedido começa pelo agendamento no órgão de identificação do seu estado (comece pelo portal gov.br/identidade) e a biometria é feita presencialmente. Depois, a versão digital pode ser adicionada ao aplicativo gov.br. Os RGs antigos continuam valendo por um prazo definido pelo governo: confirme o prazo atual no portal.",
+    "documentos": [
+      "Certidão de nascimento ou de casamento",
+      "CPF"
+    ],
+    "onde": "Órgão de identificação do seu estado (em São Paulo, pelo Poupatempo). Comece o agendamento em gov.br/identidade.",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/duvidas-frequentes-sobre-a-cin-campanha",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 4,
+    "categoria": "Saúde",
+    "titulo": "Ver ou tirar o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "cns",
+      "cartao nacional de saude",
+      "meu sus digital"
+    ],
+    "resposta": "Hoje o Cartão Nacional de Saúde (Cartão SUS) é ligado ao CPF. Você pode ver e baixar o cartão digital no aplicativo ou site Meu SUS Digital, entrando com a conta gov.br. Se precisar de ajuda para emitir ou atualizar, procure uma UBS (posto de saúde) ou a Secretaria Municipal de Saúde.",
+    "documentos": [
+      "Documento com foto",
+      "CPF",
+      "Comprovante de residência"
+    ],
+    "onde": "Qualquer UBS, Secretaria Municipal de Saúde ou aplicativo Meu SUS Digital.",
+    "fonte": "https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/cns",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 5,
+    "categoria": "Saúde",
+    "titulo": "Ver a carteira de vacinação digital",
+    "palavras_chave": [
+      "vacina",
+      "vacinas",
+      "vacinacao",
+      "carteira de vacinacao",
+      "caderneta de vacina",
+      "cartao de vacina",
+      "comprovante de vacina"
+    ],
+    "resposta": "No Meu SUS Digital (aplicativo ou site meususdigital.saude.gov.br), entre com sua conta gov.br, abra a área Minha Saúde e toque em Vacinas. Ali aparecem as doses aplicadas e a Carteira Nacional de Vacinação. Se aparecer algum erro ou faltar alguma vacina no registro, procure a UBS.",
+    "documentos": [
+      "Conta gov.br (CPF e senha)"
+    ],
+    "onde": "Aplicativo ou site Meu SUS Digital; UBS em caso de erro no registro.",
+    "fonte": "https://meususdigital.saude.gov.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 6,
+    "categoria": "Saúde",
+    "titulo": "Pegar remédios gratuitos no Farmácia Popular",
+    "palavras_chave": [
+      "farmacia popular",
+      "remedio gratis",
+      "remedio gratuito",
+      "remedios gratuitos",
+      "medicamento gratuito",
+      "medicamentos gratuitos",
+      "remedio de graca",
+      "fralda geriatrica",
+      "absorvente"
+    ],
+    "resposta": "Farmácias com o selo \"Aqui tem Farmácia Popular\" entregam de graça medicamentos e itens do programa, como remédios para diabetes, pressão alta e asma, anticoncepcionais, fraldas geriátricas e absorventes (alguns itens têm regras específicas). Para retirar, leve receita médica dentro do prazo de validade (do SUS ou particular), documento oficial com foto e CPF. Dúvidas: Ouvidoria do SUS, telefone 136.",
+    "documentos": [
+      "Receita médica válida (SUS ou particular)",
+      "Documento oficial com foto",
+      "CPF"
+    ],
+    "onde": "Farmácias credenciadas com o selo \"Aqui tem Farmácia Popular\".",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/noticias/2024/julho/saiba-como-retirar-medicamentos-e-outros-itens-pelo-farmacia-popular",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 7,
+    "categoria": "Assistência Social",
+    "titulo": "Bolsa Família: quem tem direito e como receber",
+    "palavras_chave": [
+      "bolsa familia",
+      "programa bolsa familia",
+      "receber bolsa familia",
+      "renda de cidadania",
+      "auxilio do governo"
+    ],
+    "resposta": "Pode receber o Bolsa Família a família inscrita no Cadastro Único com renda de até R$ 218 por pessoa por mês. Para chegar a esse valor, some a renda de todos e divida pelo número de pessoas da casa. A família também precisa cumprir compromissos de saúde e educação, como manter as crianças na escola.",
+    "documentos": [
+      "Cadastro Único atualizado",
+      "Documentos de todos da família (usados no CadÚnico)"
+    ],
+    "onde": "CRAS ou posto do Cadastro Único da sua cidade.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 8,
+    "categoria": "Assistência Social",
+    "titulo": "BPC: benefício de um salário mínimo para idosos e pessoas com deficiência",
+    "palavras_chave": [
+      "bpc",
+      "loas",
+      "beneficio de prestacao continuada",
+      "beneficio assistencial",
+      "um salario minimo idoso"
+    ],
+    "resposta": "O BPC paga 1 salário mínimo por mês a pessoas com 65 anos ou mais e a pessoas com deficiência de qualquer idade (com impedimento de longo prazo) que tenham renda baixa: renda por pessoa da família de até 1/4 do salário mínimo. É preciso estar no Cadastro Único e fazer o pedido pelo Meu INSS (site ou aplicativo) ou pelo telefone 135. O BPC não é aposentadoria.",
+    "documentos": [
+      "Cadastro Único atualizado",
+      "Documento oficial com foto",
+      "CPF"
+    ],
+    "onde": "Meu INSS (site ou aplicativo) ou telefone 135.",
+    "fonte": "https://www.gov.br/inss/pt-br/assuntos/idosos-com-mais-de-65-amnos-de-idade-e-pessoas-com-deficiencia-tem-direito-ao-bpc",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 9,
+    "categoria": "Assistência Social",
+    "titulo": "Gás do Povo: vale para o botijão de gás de cozinha",
+    "palavras_chave": [
+      "gas do povo",
+      "gas de cozinha",
+      "botijao",
+      "botijao de gas",
+      "vale gas",
+      "auxilio gas",
+      "recarga de gas"
+    ],
+    "resposta": "O Gás do Povo dá um vale para trocar o botijão de gás de cozinha de graça em revendas credenciadas. Pelas regras divulgadas pelo governo em dezembro de 2025, a família precisa estar no Cadastro Único atualizado nos últimos 2 anos, ter renda de até meio salário mínimo por pessoa, receber o Bolsa Família e ter 2 ou mais pessoas no mesmo cadastro. Estar elegível não garante a entrada: depende do orçamento. Consulte no aplicativo Meu Social - Gás do Povo ou na Caixa (0800 726 0207 ou 111).",
+    "documentos": [
+      "Cadastro Único atualizado",
+      "CPF do responsável familiar regular na Receita Federal"
+    ],
+    "onde": "Aplicativo Meu Social - Gás do Povo (entra com gov.br), Caixa (0800 726 0207 ou 111) ou CRAS.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/gas-do-povo/informes/informe-gas-do-povo-no01",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 10,
+    "categoria": "Energia",
+    "titulo": "Tarifa Social: conta de luz gratuita até 80 kWh",
+    "palavras_chave": [
+      "tarifa social",
+      "tarifa social de energia",
+      "desconto na conta de luz",
+      "conta de luz gratis",
+      "conta de luz gratuita",
+      "energia gratis",
+      "80 kwh",
+      "isencao na conta de luz"
+    ],
+    "resposta": "Famílias inscritas no Cadastro Único com renda de até meio salário mínimo por pessoa, e pessoas que recebem BPC, têm gratuidade na energia dos primeiros 80 kWh por mês: só o que passar de 80 kWh é cobrado. A inclusão é automática, mas a conta de luz precisa estar no nome de alguém da família que esteja no Cadastro Único, e o cadastro deve estar atualizado. Impostos estaduais e a taxa de iluminação pública continuam na conta. Se você tem direito e a conta não mostra o benefício, fale com a distribuidora ou ligue 167 (ANEEL).",
+    "documentos": [
+      "CPF do titular da conta de luz",
+      "Cadastro Único atualizado (comprovante pelo app Meu CadÚnico)"
+    ],
+    "onde": "Distribuidora de energia (telefone na conta de luz) ou ANEEL pelo 167.",
+    "fonte": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2025/aneel-regulamenta-gratuidade-de-80-kwh-mensais-para-17-milhoes-de-familias-que-recebem-tarifa-social",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 11,
+    "categoria": "Energia",
+    "titulo": "Desconto Social na conta de luz",
+    "palavras_chave": [
+      "desconto social",
+      "120 kwh",
+      "desconto na luz",
+      "desconto conta de luz um salario minimo"
+    ],
+    "resposta": "O Desconto Social começou em 1º de janeiro de 2026, pela Lei 15.235/2025. É para famílias no Cadastro Único com renda por pessoa acima de meio e até um salário mínimo, e vale para o consumo de até 120 kWh por mês. É um desconto menor que o da Tarifa Social (segundo as distribuidoras, reduz um encargo da conta, a CDE). O cadastro precisa estar atualizado e a conta de luz no nome de alguém da família.",
+    "documentos": [
+      "Cadastro Único atualizado",
+      "CPF do titular da conta de luz"
+    ],
+    "onde": "Distribuidora de energia (telefone na conta de luz) ou ANEEL pelo 167.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15235.htm",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 12,
+    "categoria": "Energia",
+    "titulo": "Bandeiras tarifárias: por que a conta de luz pode ficar mais cara",
+    "palavras_chave": [
+      "bandeira tarifaria",
+      "bandeiras tarifarias",
+      "bandeira amarela",
+      "bandeira vermelha",
+      "bandeira verde",
+      "bandeira",
+      "conta de luz mais cara"
+    ],
+    "resposta": "As bandeiras tarifárias avisam quanto custa gerar energia no mês: verde (sem acréscimo), amarela, vermelha patamar 1 e vermelha patamar 2. O acréscimo é cobrado a cada 100 kWh consumidos. Nos valores divulgados pela ANEEL e ainda citados em outubro de 2026: amarela R$ 1,885, vermelha 1 R$ 4,463 e vermelha 2 R$ 7,877 por 100 kWh. A cor do mês aparece na conta de luz e no site da ANEEL. Os valores podem mudar a cada ano.",
+    "documentos": [
+      "Nenhum documento necessário"
+    ],
+    "onde": "Na própria conta de luz ou no site da ANEEL.",
+    "fonte": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 13,
+    "categoria": "Energia",
+    "titulo": "Reclamar da distribuidora de energia ou da conta de luz",
+    "palavras_chave": [
+      "reclamar da conta de luz",
+      "reclamacao conta de luz",
+      "aneel",
+      "167",
+      "ouvidoria da distribuidora",
+      "distribuidora de energia",
+      "falta de luz",
+      "conta de luz errada",
+      "cobranca errada de luz"
+    ],
+    "resposta": "Primeiro ligue para a distribuidora de energia (o telefone está na conta de luz) e anote o número do protocolo. Se o problema não for resolvido, procure a ouvidoria da distribuidora com esse protocolo. Persistindo, ligue para a ANEEL no 167. Também dá para reclamar no Consumidor.gov.br ou no Procon da sua cidade.",
+    "documentos": [
+      "Conta de luz (número da unidade consumidora)",
+      "Número do protocolo de cada contato"
+    ],
+    "onde": "Distribuidora (telefone da conta), ouvidoria da distribuidora, ANEEL (167).",
+    "fonte": "https://goias.gov.br/agr/perguntas-frequentes-energia-eletrica/",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 14,
+    "categoria": "Energia",
+    "titulo": "Aparelho queimou por problema na rede elétrica",
+    "palavras_chave": [
+      "aparelho queimado",
+      "equipamento queimado",
+      "geladeira queimou",
+      "queimou",
+      "ressarcimento",
+      "dano eletrico",
+      "oscilacao de energia",
+      "queda de energia"
+    ],
+    "resposta": "Se um aparelho queimou por problema na rede (queda ou oscilação de energia), peça ressarcimento à distribuidora em até 90 dias. Informe o número da unidade consumidora (está na conta de luz), a data e a hora aproximadas e quais aparelhos foram danificados. Não mande consertar antes da vistoria, a menos que a distribuidora autorize.",
+    "documentos": [
+      "Conta de luz (número da unidade consumidora)",
+      "Dados do aparelho (marca, modelo)",
+      "Nota fiscal, se tiver"
+    ],
+    "onde": "Atendimento da distribuidora de energia; se negar, ouvidoria da distribuidora e ANEEL (167).",
+    "fonte": "https://procon.campinas.sp.gov.br/sites/procon.campinas.sp.gov.br/files/arquivos-pesquisa/cartilha_danos_el%C3%A9tricos2-2-11.pdf",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 15,
+    "categoria": "Energia",
+    "titulo": "Economizar energia: lâmpada LED, selo Procel e etiqueta ENCE",
+    "palavras_chave": [
+      "economizar energia",
+      "economia de energia",
+      "lampada led",
+      "led",
+      "selo procel",
+      "etiqueta ence",
+      "procel",
+      "ence",
+      "eficiencia energetica",
+      "chuveiro eletrico"
+    ],
+    "resposta": "Ao comprar eletrodoméstico, prefira os com etiqueta ENCE letra A (Inmetro) e Selo Procel. Uma lâmpada LED de 9 W dá a mesma luz que uma incandescente de 60 W, segundo a cartilha do Inmetro, então a troca reduz bastante o consumo. No chuveiro elétrico, usar a chave na posição verão pode reduzir o consumo do chuveiro em até 30%, segundo a Cemig. Use a calculadora de energia do assistente para estimar quanto você economiza.",
+    "documentos": [
+      "Nenhum documento necessário"
+    ],
+    "onde": "Lojas (veja a etiqueta ENCE no produto) e dentro da sua casa.",
+    "fonte": "https://www.gov.br/inmetro/pt-br/centrais-de-conteudo/publicacoes/cartilhas/lampadaled.pdf",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 16,
+    "categoria": "Energia",
+    "titulo": "Energia solar em casa (geração distribuída)",
+    "palavras_chave": [
+      "energia solar",
+      "painel solar",
+      "placa solar",
+      "geracao distribuida",
+      "microgeracao",
+      "gerar minha propria energia",
+      "creditos de energia"
+    ],
+    "resposta": "Pela Lei 14.300/2022, quem gera a própria energia com fontes renováveis (como painéis solares) em sistemas de até 75 kW (microgeração) pode enviar o excedente para a rede da distribuidora e receber créditos para abater na conta (sistema de compensação). Antes de ligar o sistema, é preciso pedir acesso à distribuidora, que precisa autorizar. O investimento inicial costuma ser alto: use a calculadora de energia do assistente para estimar o retorno.",
+    "documentos": [
+      "Solicitação de acesso protocolada na distribuidora",
+      "Projeto do sistema (feito pela empresa instaladora)"
+    ],
+    "onde": "Distribuidora de energia da sua região.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14300.htm",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 17,
+    "categoria": "Direitos do Consumidor",
+    "titulo": "Reclamar de uma empresa pelo Consumidor.gov.br",
+    "palavras_chave": [
+      "consumidor gov",
+      "consumidor gov br",
+      "reclamar de empresa",
+      "reclamar de uma empresa",
+      "reclamacao",
+      "empresa nao respondeu",
+      "procon",
+      "compra deu errado"
+    ],
+    "resposta": "O Consumidor.gov.br é uma plataforma gratuita do governo federal para reclamar de empresas cadastradas. Você registra a reclamação pela internet, com conta gov.br, e a empresa tem até 10 dias para responder. Primeiro confira se a empresa está cadastrada no site. Você também pode procurar o Procon da sua cidade.",
+    "documentos": [
+      "Conta gov.br",
+      "Comprovantes da compra (nota, protocolo, prints da conversa)"
+    ],
+    "onde": "Site ou aplicativo Consumidor.gov.br; Procon da sua cidade.",
+    "fonte": "https://www.consumidor.gov.br",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 18,
+    "categoria": "Direitos do Consumidor",
+    "titulo": "Desistir de uma compra feita fora da loja (direito de arrependimento)",
+    "palavras_chave": [
+      "arrependimento",
+      "direito de arrependimento",
+      "devolver compra",
+      "devolver produto",
+      "cancelar compra",
+      "desistir da compra",
+      "compra pela internet",
+      "compra online"
+    ],
+    "resposta": "Quem compra fora da loja (internet, telefone ou aplicativo) pode desistir em até 7 dias, sem explicar o motivo e sem custo extra. O prazo conta do recebimento do produto ou da contratação do serviço. Avise a empresa por um canal que gere comprovante (e-mail ou protocolo): reclamar só em rede social não vale como aviso. Produtos digitais podem ter regras específicas.",
+    "documentos": [
+      "Comprovante da compra (nota ou e-mail do pedido)"
+    ],
+    "onde": "Canal oficial da loja; se não resolver, Consumidor.gov.br ou Procon.",
+    "fonte": "https://www.gov.br/mj/pt-br/assuntos/noticias/nas-relacoes-de-consumo-o-direito-de-arrependimento-e-garantido-por-lei",
+    "verificado_em": "2026-11-16"
+  }
+]
